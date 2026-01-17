@@ -31,3 +31,4 @@ Project focuses on clear separation of data, DOM rendering, and user interaction
 This project is deployed using GitHub Pages:
 
 **Live Demo:**
+(https://v-e-x-i-n.github.io/se_project_todo-app/)
